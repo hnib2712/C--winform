@@ -1,0 +1,9 @@
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.Properties.Resources.resources
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.csproj.GenerateResource.cache
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.csproj.CoreCompileInputs.cache
+D:\WORKING\Winform\hnib\hnib\bin\Debug\hnib.exe
+D:\WORKING\Winform\hnib\hnib\bin\Debug\hnib.pdb
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.exe
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.pdb
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.Hnibuv.resources
+D:\WORKING\Winform\hnib\hnib\obj\Debug\hnib.csprojAssemblyReference.cache
